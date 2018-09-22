@@ -1,0 +1,15 @@
+该公路客运售票系统是在Visual Studio 2012和SQL Server 2008 R2下开发完成的
+程序代码包含三个压缩文件。
+其中PassengerTicketingSystem是系统程序代码，PassengerTicketing.mdf和PassengerTicketing_log.ldf是数据库文件
+在PassengerTicketingSystem中配置系统与数据库的连接文件
+当前的设置是
+<add key="cn" value="server=ASUS\POWERRR;database=PassengerTicketing;uid=sa;pwd=sa;" />
+数据源ASUS\POWERRR是本机，用户名uid是sa，密码是sa
+将数据库正确附件后，可以编译该程序
+
+
+系统前台登录的用户名是ww1232，密码是123123qwe；
+
+系统后台登录的用户名是1，密码是17。
+
+PS:运行环境要安装.NET Framework 4.0版本以上

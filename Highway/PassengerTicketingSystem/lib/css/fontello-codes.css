@@ -1,0 +1,19 @@
+
+.icon-flight:before { content: '\e800'; } /* '' */
+.icon-flight-1:before { content: '\e801'; } /* '' */
+.icon-mobile:before { content: '\e802'; } /* '' */
+.icon-down-open:before { content: '\e803'; } /* '' */
+.icon-down-open-1:before { content: '\e804'; } /* '' */
+.icon-right-thin:before { content: '\e805'; } /* '' */
+.icon-calendar:before { content: '\e806'; } /* '' */
+.icon-ticket:before { content: '\e807'; } /* '' */
+.icon-globe:before { content: '\e808'; } /* '' */
+.icon-bus-1:before { content: '\e80b'; } /* '' */
+.icon-angle-down:before { content: '\f107'; } /* '' */
+.icon-shield:before { content: '\f132'; } /* '' */
+.icon-rocket:before { content: '\f135'; } /* '' */
+.icon-building-filled:before { content: '\f1ad'; } /* '' */
+.icon-qq:before { content: '\f1d6'; } /* '' */
+.icon-bus:before { content: '\f207'; } /* '' */
+.icon-train:before { content: '\f238'; } /* '' */
+.icon-subway:before { content: '\f239'; } /* '' */
